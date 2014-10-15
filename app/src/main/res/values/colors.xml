@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal_button_stroke">#000</color>
+    <color name="normal_button_background_color">#f00</color>
+
+    <color name="focused_button_stroke">#000</color>
+    <color name="focused_button_background_color">#c00</color>
+
+    <color name="pressed_button_stroke">#000</color>
+    <color name="pressed_button_background_color">#00ACDF</color>
+
+    <color name="button_text_color">#ffffff</color>
+</resources>
